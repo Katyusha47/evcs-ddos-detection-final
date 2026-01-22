@@ -86,14 +86,14 @@ The project likely implements various machine learning algorithms including:
 ## Project Structure
 
 ```
-final-ta/
+*/
 ├── evcs_ddos_detection_by_miqbalj_final.ipynb  # Main analysis notebook
 ├── CICEV2023/                                   # Dataset directory (not included)
 │   ├── Correct_ID/
 │   ├── Wrong_CS_TS/
 │   ├── Wrong_EV_TS/
 │   └── Wrong_ID/
-└── README.md                                    # This file
+└── README.md                                    
 ```
 
 ## Google Colab Support
