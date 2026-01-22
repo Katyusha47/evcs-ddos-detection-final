@@ -87,7 +87,8 @@ The project likely implements various machine learning algorithms including:
 
 ```
 */
-├── evcs_ddos_detection_by_miqbalj_final.ipynb  # Main analysis notebook
+├── evcs_ddos_detection_by_miqbalj_final.ipynb  # Main notebook
+├── final_model.pkl                              # Trained model file
 ├── CICEV2023/                                   # Dataset directory (not included)
 │   ├── Correct_ID/
 │   ├── Wrong_CS_TS/
