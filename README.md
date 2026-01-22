@@ -99,7 +99,7 @@ The project likely implements various machine learning algorithms including:
 
 ## Output
 
-You can see the final model (output) on the 'final_model.pkl'.
+You can see the final model (output) on the `final_model.pkl`.
 
 ## Google Colab Support
 
