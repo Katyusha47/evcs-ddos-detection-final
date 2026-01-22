@@ -109,7 +109,7 @@ The notebook includes automatic detection for Google Colab environment and provi
 
 ## License
 
-Please refer to the dataset license and terms of use for CICEV2023.
+Please refer to the dataset license and terms of use for [CICEV2023](https://www.unb.ca/cic/datasets/cicev2023.html).
 
 ## Acknowledgments
 
